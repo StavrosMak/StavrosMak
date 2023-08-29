@@ -4,9 +4,9 @@ I’m a 21-year-old student currently enrolled at the
 University of West Attica, pursuing a 5-year bachelor’s
 degree program with an integrated master’s degree,diving
 deep into the fascinating world of Informatics and Computer
-Engineering. With a burning passion for web development,I
-enjoy crafting seamless user experiences and bringing web-
-sites to life.Throughout my academic journey, I’ve been honing
+Engineering. With a burning passion for web development,
+I enjoy creating and bringing websites to life.
+Throughout my academic journey, I’ve been honing
 my skills in creating intuitive interfaces and mastering the art
 of general web development.I’m constantly seeking new ways
 to enhance user engagement and make a lasting impact.
