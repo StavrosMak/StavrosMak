@@ -8,9 +8,9 @@ Engineering. With a burning passion for web development,
 I enjoy creating and bringing websites to life.
 Throughout my academic journey, I’ve been honing
 my skills in creating intuitive interfaces and mastering the art
-of general web development.I’m constantly seeking new ways
-to enhance user engagement and make a lasting impact.
-
+of general web development.nt. I'm open to growth and 
+advancement in this field, always welcoming new opportunities 
+for learning and improvement.
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
