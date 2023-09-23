@@ -11,7 +11,7 @@ my skills in creating user-friendly interfaces and mastering the art
 of general web development. I'm open to growth in this field,
 always welcoming new opportunities for learning and improvement.
 
-If you want to learn more about me check my personal portfolio:https://stavrosmak.github.io/portfolio/
+If you want to learn more about me, check my Portfolio:https://stavrosmak.github.io/portfolio/
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
