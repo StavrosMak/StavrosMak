@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I’m a 21-year-old student currently enrolled at the
+I’m a 22-year-old student currently enrolled at the
 University of West Attica, pursuing a 5-year bachelor’s
 degree program with an integrated master’s degree,diving
 deep into the fascinating world of Informatics and Computer
